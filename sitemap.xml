@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://pearcrew.tk/index.html</loc>
+    <lastmod>2018-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://pearcrew.tk/images/icons8-discord-512.png</image:loc>
+      <image:caption>Pear Crew#3242</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://pearcrew.tk/images/icons8-play-button-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pearcrew.tk/images/icons8-github-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pearcrew.tk/images/icons8-twitter-512.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
